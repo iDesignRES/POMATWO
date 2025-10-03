@@ -74,4 +74,4 @@ It is also important to note that the model does not include flexibility costs i
 
 ## Repository 
 The link to the GitLab repository of the POMATWO model:
-https://git.tu-berlin.de/wip/elmodtoolbox/elmod.jl/-/tree/iDesignRES?ref_type=heads
+https://github.com/EnnoWbrw/POMATWO/tree/main
