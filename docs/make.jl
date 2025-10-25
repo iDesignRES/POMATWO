@@ -9,6 +9,7 @@ format = Documenter.HTML(;
         assets=String[],),
 modules = [POMATWO],
 checkdocs=:public,
+remotes = nothing,
 authors = "Enno Wiebrow, Kristin Dietrich, Mario Kendziorski", 
 pages = [
     "Home" => "index.md",
